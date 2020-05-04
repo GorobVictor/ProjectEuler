@@ -8,7 +8,7 @@ namespace ProjectEuler
     {
         static void Main(string[] args)
         {
-            Task<int> obj =new Task_11();
+            var obj =new Task_14();
             Console.WriteLine(obj.GetResult());
         }
         internal static readonly Stopwatch Stopwatch = new Stopwatch();

@@ -43,6 +43,9 @@
         <Compile Include="Properties\AssemblyInfo.cs" />
         <Compile Include="Tasks_From_10_To_19\Task_10.cs" />
         <Compile Include="Tasks_From_10_To_19\Task_11.cs" />
+        <Compile Include="Tasks_From_10_To_19\Task_12.cs" />
+        <Compile Include="Tasks_From_10_To_19\Task_13.cs" />
+        <Compile Include="Tasks_From_10_To_19\Task_14.cs" />
         <Compile Include="Tasks_From_1_To_9\Task_1.cs" />
         <Compile Include="Tasks_From_1_To_9\Task_2.cs" />
         <Compile Include="Tasks_From_1_To_9\Task_3.cs" />
