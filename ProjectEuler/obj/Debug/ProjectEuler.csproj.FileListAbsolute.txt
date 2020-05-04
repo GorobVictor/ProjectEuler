@@ -1,0 +1,12 @@
+/home/victor/RiderProjects/ProjectEuler/ProjectEuler/bin/Debug/ProjectEuler.exe
+/home/victor/RiderProjects/ProjectEuler/ProjectEuler/bin/Debug/ProjectEuler.pdb
+/home/victor/RiderProjects/ProjectEuler/ProjectEuler/obj/Debug/ProjectEuler.csprojAssemblyReference.cache
+/home/victor/RiderProjects/ProjectEuler/ProjectEuler/obj/Debug/ProjectEuler.csproj.CoreCompileInputs.cache
+/home/victor/RiderProjects/ProjectEuler/ProjectEuler/obj/Debug/ProjectEuler.exe
+/home/victor/RiderProjects/ProjectEuler/ProjectEuler/obj/Debug/ProjectEuler.pdb
+G:\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.exe
+G:\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.pdb
+G:\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.csprojAssemblyReference.cache
+G:\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.csproj.CoreCompileInputs.cache
+G:\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.exe
+G:\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.pdb
